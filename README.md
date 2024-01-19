@@ -1,13 +1,17 @@
 <h1 align="center">Howdy, I'm Soza</h1>
 <h3 align="center">🂡 An all in Full-Stack developer</h3>
 
-- 👨🏻‍💻 Current endeavors: Nexus Entertainment software development internship **I am actively engaged in two significant projects—NexusHub and NexusVault—focused on trading and tracking trends for collectibles. These endeavors emphasize the strategic application of Iterative Design principles across the entire development process. From initial idea conceptualization to prototype creation, we iteratively integrate customer feedback to refine and enhance the applications. This meticulous process ensures that the final products are not only functional but also closely aligned with user needs.**
+- 👨🏻‍💻 Current Endeavors: Nexus Entertainment software development internship
+**I am actively engaged in two significant projects—NexusHub and NexusVault—focused on trading and tracking trends for collectibles. These endeavors emphasize the strategic application of Iterative Design principles across the entire development process. From initial idea conceptualization to prototype creation, we iteratively integrate customer feedback to refine and enhance the applications. This meticulous process ensures that the final products are not only functional but also closely aligned with user needs.**
 
-- 📚 I’m currently learning **I have been introduced to incorporating Agile frameworks and Scrum methodologies in the development process. Which promotes a flexible and collaborative work environment, by enabling the team to adapt quickly while still delivering in a efficient manner.**
+- 📚 Current Knowledge Pursuit:
+   **I have been introduced to incorporating Agile frameworks and Scrum methodologies in the development process. Which promotes a flexible and collaborative work environment, by enabling the team to adapt quickly while still delivering in a efficient manner.**
 
-- ✉️ Reach out by E-Mail **SARSOZA@GMAIL.COM**
+- ✉️ Reach out by E-Mail
+   **SARSOZA@GMAIL.COM**
 
-- 🏴‍☠️Fun fact 🏴‍☠️ **I'm a HUGE One Piece fan! (I even play the trading card game!)**
+- 🏴‍☠️Fun fact 🏴‍☠️
+  **I'm a HUGE One Piece fan! (I even play the trading card game!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
