@@ -1,8 +1,8 @@
 <h1 align="center">Howdy, I'm Soza</h1>
 <h3 align="center">🂡 An all in Full-Stack developer</h3>
 
-- 👨🏻‍💻 Current Endeavors: Nexus Entertainment software development internship
-**I am actively engaged in two significant projects—NexusHub and NexusVault—focused on trading and tracking trends for collectibles. These endeavors emphasize the strategic application of Iterative Design principles across the entire development process. From initial idea conceptualization to prototype creation, we iteratively integrate customer feedback to refine and enhance the applications. This meticulous process ensures that the final products are not only functional but also closely aligned with user needs.**
+- 👨🏻‍💻 Current Endeavors: 
+**As a Nexus Entertainment software development intern, I am actively engaged in two significant projects—NexusHub and NexusVault—focused on trading and tracking trends for collectibles. These endeavors emphasize the strategic application of Iterative Design principles across the entire development process. From initial idea conceptualization to prototype creation, we iteratively integrate customer feedback to refine and enhance the applications. This meticulous process ensures that the final products are not only functional but also closely aligned with user needs.**
 
 - 📚 Current Knowledge Pursuit:
    **I have been introduced to incorporating Agile frameworks and Scrum methodologies in the development process. Which promotes a flexible and collaborative work environment, by enabling the team to adapt quickly while still delivering in a efficient manner.**
